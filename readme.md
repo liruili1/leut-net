@@ -1,2 +1,1 @@
-##
-Leut-net: Official PyTorch Implementation
+##Leut-net: Official PyTorch Implementation
